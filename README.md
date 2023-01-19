@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arpit
-- 👀 I’m interested in Artifical Intelligence and the math that powers it
+- 👀 I’m interested in Artifical Intelligence and the math that powers it.
 - 🌱 I’m a graduate Student At Carnegie Mellon University, where i'm taking some of the best courses on Machine Learning  and working with the brightest minds to use AI to Solve Impactful problems
 - 📫 You can Reach me at arpitsahni04@gmail.com for any queries.
 
