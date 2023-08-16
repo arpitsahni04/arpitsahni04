@@ -7,7 +7,9 @@
 
 **SKILLS**
 **Programming Languages**: Python, C/C++, MATLAB. 
+
 **Programming Libraries**: NumPy, Pandas, Matplotlib, OpenCV, Open3D, OpenGL, Eigen, Scikit-Learn, Pytest, Jenkins, Gradio.	
+
 **Tools/Frameworks**: PyTorch, TensorFlow, Hugging Face, Git, Linux, SQL, ROS2, LaTeX, Docker, AWS, Apache Kafka, Jira.
 
 
