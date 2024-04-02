@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Arpit
+- 👋 Hi
 - 🌱 I’m a graduate Student At Carnegie Mellon University, where i'm taking some of the best courses on Machine Learning  and working with the brightest minds to use AI to Solve Impactful problems
 - 👀 I’m interested in Artifical Intelligence and the math that powers it.
 - I've had experience in all things Machine Learning. from building models state of the art models, implementing research papers to designing real-time data-focused automated model monitoring, testing, data cleaning, drift detection,model retraining, and canary releases to operationalize the models into production.
